@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChristianAntohi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JS, React, Redux
+- 🌱 I’m currently learning JS, React, Redux, Node, Express, MongoDB, PostgreSQL
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me https://www.linkedin.com/in/antohi-christian-6a51b420a/
 
